@@ -1,14 +1,18 @@
 # Cinema Room Manager
 
 ## Description
+
 This project is a good opportunity to work with input and output in Java. You will deal with multidimensional arrays and functions as well as loops and conditional statements.
 
-## Tasks
+Cinema has been a part of the entertainment industry for a long time: a good movie is a way to escape reality and live through a variety of emotions. The best cinema experience you can get is probably in a cinema theatre. In this project, you will create an application that helps manage a cinema theatre: sell tickets, check available seats, see sales statistics, and more.
 
-- At the start, your program should read two positive integer numbers that represent the number of rows and seats in each row. Then, it should print a menu with the following three items:
-- Show the seats should print the current seating arrangement. The empty seats should be marked with an S symbol, and taken seats are marked with a B symbol.
-- Buy a ticket should read the seat coordinates from the input and print the ticket price like in the previous stage. After that, the chosen seat should be marked with a B when the item Show the seats is called.
-- Exit should stop the program.
+Project difficulty: **Medium** from
+- 1 - Easy - Easy projects if you're just starting
+- **2 - Medium - Medium projects to build upon the basics**
+- 3 - Hard - Hard projects to practice all the basic concepts and learn new ones
+- 4 - Challenging - Challenging projects to perfect your knowledge with challenging tasks
+
+[Project task link](https://hyperskill.org/projects/133?track=8)
 
 ## Implementation stages
 
